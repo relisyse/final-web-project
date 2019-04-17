@@ -1,2 +1,2 @@
-# final-web-project
+# Website-for-Photogallery-final
 Website
